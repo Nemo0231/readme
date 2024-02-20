@@ -1,2 +1,2 @@
-# readme
+# LATIA112-1
 NTNU EduLRS LATIA112-1
